@@ -1,0 +1,9 @@
+En cuanto a los requisitos que nos has exigido para la página web, la técnica de 
+miniaturas de imagenes, he utilizado unas imágenes de menor tamaño como enlace entre 
+los artículos, donde aparecen estas mismas en mayor tamaño.
+
+Como esta es la primera página que hago desde cero, no se si las imágenes utilizadas 
+tienen demasiado peso para su uso en web.
+
+Me he centrado sobre todo en las estructuras y tematización de la página, he intentado 
+que no haya ningun error de contenido.
